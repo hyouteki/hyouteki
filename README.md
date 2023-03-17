@@ -6,12 +6,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hyouteki&label=Profile%20views&color=301930&style=bold" alt="hyouteki" /> </p>
 
-```javascript
-const Hyouteki = {
-  fullName: 'Lakshay Chauhan',
-  age: 19,
-  country: 'IN',
-  birthday: '28/01/2004',
+```kotlin
+data class Hyouteki {
+  val fullName = 'Lakshay Chauhan',
+  var age = 19,
+  val country = 'IN',
+  val birthday = '28/01/2004',
 }
 ```
 
