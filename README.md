@@ -64,6 +64,3 @@ data class Hyouteki {
 ![Hyouteki's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyouteki&show_icons=true&theme=synthwave)<br>
 ![More stats](https://github-readme-streak-stats.herokuapp.com/?user=hyouteki&theme=synthwave&hide_border=false)<br/>
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=hyouteki&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-### Look at the snake go!!!
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
