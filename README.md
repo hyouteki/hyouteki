@@ -28,7 +28,7 @@ data class Hyouteki {
 ### Toolbox
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<img src="https://cdn-icons-png.flaticon.com/512/888/888839.png" alt="android" width="40" height="40"/> </a> 
+<img src="https://cdn.icon-icons.com/icons2/2044/PNG/512/android_logo_icon_124318.png" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -48,7 +48,7 @@ data class Hyouteki {
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/512/546/546049.png" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn-icons-png.flaticon.com/512/470/470661.png" alt="mysql" width="40" height="40"/> </a> 
+<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://miro.com" target="_blank" rel="noreferrer"> 
@@ -56,9 +56,15 @@ data class Hyouteki {
 <a href="https://helpx.adobe.com/in/support/xd.html" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png?20210729021535" alt="adobexd" width="40" height="40"/> </a> 
 <a href="https://m3.material.io/" target="_blank" rel="noreferrer"> 
-<img src="https://m3.material.io/favicon.ico" alt="materialdesign" width="40" height="40"/> </a>
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/material_palette_generator_macos_bigsur_icon_189469.png" alt="materialdesign" width="40" height="40"/> </a>
+<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/markdown_here_logo_icon_169967.png" alt="markdown" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://developer.android.com/studio?gclsrc=ds&gclsrc=ds" target="_blank" rel="noreferrer">
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190395.png" alt="androidstudio" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/code_103074.png" alt="vscode" width="40" height="40"/> </a>
 
 ### Statistics
 ![Hyouteki's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyouteki&show_icons=true&theme=synthwave)<br>
