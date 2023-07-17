@@ -44,7 +44,7 @@ data class Hyouteki {
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/512/1387/1387539.png" alt="java" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" alt="kotlin" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/512/546/546049.png" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
