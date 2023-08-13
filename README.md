@@ -4,7 +4,7 @@
 <a href="https://github.com/Hyouteki" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&width=380&height=45&lines=Android+Developer;Manga+Enthusiast;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hyouteki&label=Profile%20views&color=301930&style=bold" alt="hyouteki" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hyouteki&label=Profile%20views&color=301930&style=for-the-badge" alt="hyouteki" /> </p>
 
 ```kotlin
 data class Hyouteki {
