@@ -103,8 +103,8 @@ data class Hyouteki {
 </a>
 
 ### Statistics
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hyouteki&theme=tokyo-night)](https://github.com/Hyouteki/github-readme-activity-graph)
-[![trophy](https://github-profile-trophy.vercel.app/?username=hyouteki&theme=tokyonight&no-frame=true&column=4&margin-w=5&margin-h=5)](https://github.com/hyouteki/github-profile-trophy)<br>
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hyouteki&theme=tokyo-night)<br>
+![trophy](https://github-profile-trophy.vercel.app/?username=hyouteki&theme=tokyonight&no-frame=true&column=4&margin-w=5&margin-h=5)<br>
 ![Hyouteki's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyouteki&show_icons=true&theme=tokyonight)<br>
 ![More stats](https://github-readme-streak-stats.herokuapp.com/?user=hyouteki&theme=tokyonight&show_icons=true)<br/>
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=hyouteki&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=hyouteki&theme=tokyonight&layout=compact)
