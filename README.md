@@ -1,7 +1,9 @@
-<h1 align="center"> Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="36px" width="29px">, I'm Lakshay aka 標的 </h1>
+![bg2](https://github.com/Hyouteki/Hyouteki/assets/108230497/579f6b95-9de4-4698-a7f7-d6f18348198f)
+
+<h3 align="center"> Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="36px" width="29px">, I'm Lakshay aka 標的 </h3>
 
 <p align="center">
-<a href="https://github.com/Hyouteki" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&width=380&height=45&lines=Android+Developer;Manga+Enthusiast;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
+<a href="https://github.com/Hyouteki" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&width=380&height=45&lines=Android+Developer;Manga+Enthusiast;Recreational+Programmer;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hyouteki&label=Profile%20views&color=301930&style=for-the-badge" alt="hyouteki" /> </p>
