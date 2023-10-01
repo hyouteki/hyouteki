@@ -58,6 +58,12 @@ data class Hyouteki {
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
 <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+django-1324451277244670707.png" alt="django" width="40" height="40"/> 
 </a>
+<a href="https://htmlreference.io/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="django" width="40" height="40"/> 
+</a>
+<a href="https://obsidian.md/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/obsidian-icon.svg" alt="django" width="40" height="40"/> 
+</a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a>
