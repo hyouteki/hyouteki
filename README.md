@@ -47,7 +47,7 @@ data class Hyouteki {
 ### Handy Mandy Toolbox
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/2044/PNG/512/android_logo_icon_124318.png" alt="android" width="40" height="40"/> 
+<img src="https://cdn.icon-icons.com/icons2/640/PNG/512/android-robot-figure-avatar-brand_icon-icons.com_59128.png" alt="android" width="40" height="40"/> 
 </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -59,10 +59,10 @@ data class Hyouteki {
 <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+django-1324451277244670707.png" alt="django" width="40" height="40"/> 
 </a>
 <a href="https://htmlreference.io/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="django" width="40" height="40"/> 
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="40" height="40"/> 
 </a>
 <a href="https://obsidian.md/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/gilbarbara/logos/blob/main/logos/obsidian-icon.svg" alt="django" width="40" height="40"/> 
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/obsidian-icon.svg" alt="obsidian" width="40" height="40"/> 
 </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -104,10 +104,13 @@ data class Hyouteki {
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </a>
 <a href="https://developer.android.com/studio?gclsrc=ds&gclsrc=ds" target="_blank" rel="noreferrer">
-<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190395.png" alt="androidstudio" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190394.png" alt="androidstudio" width="40" height="40"/>
 </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/code_103074.png" alt="vscode" width="40" height="40"/> 
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="40" height="40"/> 
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.icon-icons.com/icons2/3685/PNG/512/notion_logo_icon_229291.png" alt="notion" width="40" height="40"/> 
 </a>
 
 ### Statistics
