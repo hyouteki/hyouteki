@@ -58,6 +58,9 @@ data class Hyouteki {
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
 <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+django-1324451277244670707.png" alt="django" width="40" height="40"/> 
 </a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/> 
+</a>
 <a href="https://htmlreference.io/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="40" height="40"/> 
 </a>
