@@ -1,5 +1,3 @@
-![bg2](https://github.com/Hyouteki/Hyouteki/assets/108230497/579f6b95-9de4-4698-a7f7-d6f18348198f)
-
 <h3 align="center"> Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="36px" width="29px">, I'm Lakshay aka 標的 </h3>
 
 <p align="center">
