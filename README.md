@@ -1,4 +1,4 @@
-<h3 align="center"> Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="36px" width="29px">, I'm Lakshay aka 標的 </h3>
+<h3 align="center"> Hey there, I'm Lakshay aka 標的 </h3>
 
 <p align="center">
 <a href="https://github.com/Hyouteki" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&width=380&height=45&lines=Android+Developer;Manga+Enthusiast;Recreational+Programmer;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
