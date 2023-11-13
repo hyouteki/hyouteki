@@ -23,7 +23,7 @@ data class Hyouteki {
 <a href="https://www.reddit.com/user/LuckyDGreat" target="blank">
 <img align="center" src="https://cdn.icon-icons.com/icons2/673/PNG/512/reddit_icon-icons.com_60458.png" alt="Lakshay Chauahn" height="36" width="36" /> 
 </a>
-<a href="https://www.linkedin.com/in/lakshay-chauhan-319200239/" target="blank">
+<a href="https://www.linkedin.com/in/hyouteki/" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/3128/3128329.png" alt="Lakshay Chauhan" height="36" width="36" />
 </a>
 <a href="https://www.instagram.com/mainlakshayhoon/" target="blank">
@@ -32,7 +32,7 @@ data class Hyouteki {
 <a href="https://discord.gg/Nosferatu#0125" target="blank">
 <img align="center" src="https://cdn.icon-icons.com/icons2/3132/PNG/512/discord_social_network_communication_interaction_message_icon_192260.png" alt="Lakshay Chauhan" height="40" width="38" />
 </a>
-<a href="https://hyouteki.github.io/me/" target="blank">
+<a href="https://hyouteki.github.io/" target="blank">
 <img align="center" src="https://cdn.icon-icons.com/icons2/403/PNG/512/cloud_40534.png" alt="Lakshay Chauhan" height="40" width="38" />
 </a>
 <a href="https://www.youtube.com/@hyoutek1" target="blank">
