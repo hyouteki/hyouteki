@@ -56,6 +56,9 @@ data class Hyouteki {
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" alt="rust" width="40" height="40"/> 
 </a>
+<a href="https://tauri.app/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" alt="tauri" width="40" height="40"/> 
+</a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
 <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+django-1324451277244670707.png" alt="django" width="40" height="40"/> 
 </a>
@@ -64,6 +67,15 @@ data class Hyouteki {
 </a>
 <a href="https://htmlreference.io/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="40" height="40"/> 
+</a>
+<a href="https://cssreference.io/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40"/> 
+</a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40"/> 
+</a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="40" height="40"/> 
 </a>
 <a href="https://obsidian.md/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/gilbarbara/logos/blob/main/logos/obsidian-icon.svg" alt="obsidian" width="40" height="40"/> 
