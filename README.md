@@ -4,9 +4,9 @@
 <a href="https://github.com/Hyouteki" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&width=380&height=45&lines=Android+Developer;Manga+Enthusiast;Recreational+Programmer;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hyouteki&label=Profile%20views&color=301930&style=for-the-badge" alt="hyouteki" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hyouteki&label=Profile%20views&color=301930" alt="hyouteki" /> </p>
 
-```kotlin
+``` kotlin
 data class Hyouteki {
   val fullName = 'Lakshay Chauhan',
   var age = 19,
@@ -43,7 +43,6 @@ data class Hyouteki {
 </a>
 
 ### Handy Mandy Toolbox
-
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.icon-icons.com/icons2/640/PNG/512/android-robot-figure-avatar-brand_icon-icons.com_59128.png" alt="android" width="40" height="40"/> 
@@ -131,12 +130,8 @@ data class Hyouteki {
 </a>
 
 ### Statistics
-
-<div align="center">
-  <a href="https://github.com/Hyouteki">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyouteki&theme=ayu_mirage" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hyouteki&theme=ayu_mirage" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyouteki&theme=ayu_mirage" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hyouteki&theme=ayu_mirage" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyouteki&theme=ayu_mirage" height="180em" />
-</div>
+<p align="center">
+<img src ="https://github-readme-activity-graph.vercel.app/graph?username=Hyouteki&theme=tokyo-night&show_icons=true&size_weight=0.5&count_weight=0.5&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="Recent activities" height="50%" width="auto"><br>
+<img src ="https://github-readme-stats.vercel.app/api?username=hyouteki&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="GitHub Stats" height="50%" width="auto">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hyouteki&theme=tokyonight&layout=compact&size_weight=0.5&count_weight=0.5&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="Top Languages" height="50%" width="auto"><br><br>
+</p>
