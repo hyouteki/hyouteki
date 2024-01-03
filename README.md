@@ -43,6 +43,7 @@ data class Hyouteki {
 </a>
 
 ### Handy Mandy Toolbox
+
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.icon-icons.com/icons2/640/PNG/512/android-robot-figure-avatar-brand_icon-icons.com_59128.png" alt="android" width="40" height="40"/> 
@@ -128,6 +129,8 @@ data class Hyouteki {
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.icon-icons.com/icons2/3685/PNG/512/notion_logo_icon_229291.png" alt="notion" width="40" height="40"/> 
 </a>
+
+### Statistics
 
 <div align="center">
   <a href="https://github.com/Hyouteki">
