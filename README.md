@@ -129,9 +129,11 @@ data class Hyouteki {
 <img src="https://cdn.icon-icons.com/icons2/3685/PNG/512/notion_logo_icon_229291.png" alt="notion" width="40" height="40"/> 
 </a>
 
-### Statistics
-<p align="center">
-<img src ="https://github-readme-activity-graph.vercel.app/graph?username=Hyouteki&theme=tokyo-night&show_icons=true&size_weight=0.5&count_weight=0.5&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="Recent activities" height="50%" width="auto"><br>
-<img src ="https://github-readme-stats.vercel.app/api?username=hyouteki&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="GitHub Stats" height="50%" width="auto">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hyouteki&theme=tokyonight&layout=compact&size_weight=0.5&count_weight=0.5&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="Top Languages" height="50%" width="auto"><br><br>
-</p>
+<div align="center">
+  <a href="https://github.com/Hyouteki">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyouteki&theme=ayu_mirage" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hyouteki&theme=ayu_mirage" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyouteki&theme=ayu_mirage" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hyouteki&theme=ayu_mirage" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyouteki&theme=ayu_mirage" height="180em" />
+</div>
