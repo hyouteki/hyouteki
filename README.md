@@ -60,7 +60,7 @@ data class Hyouteki {
 <img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" alt="tauri" width="40" height="40"/> 
 </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-<img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+django-1324451277244670707.png" alt="django" width="40" height="40"/> 
+<img src="https://www.djangoproject.com/favicon.ico" alt="django" width="40" height="40"/> 
 </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/> 
