@@ -65,8 +65,8 @@ bindsym $mod+Shift+Right move right
 
 # PULSE AUDIO START
 exec --no-startup-id pulseaudio
-bindsym XF86AudioRaiseVolume exec "amixer -D pulse sset Master 5%+"
-bindsym XF86AudioLowerVolume exec "amixer -D pulse sset Master 5%-"
+bindsym XF86AudioRaiseVolume exec "amixer -D pulse sset Master 5%+ unmute"
+bindsym XF86AudioLowerVolume exec "amixer -D pulse sset Master 5%- unmute"
 bindsym XF86AudioMute exec "amixer -q sset Master,0 toggle"	
 # PULSE AUDIO OVER
 
@@ -74,7 +74,11 @@ bindsym XF86AudioMute exec "amixer -q sset Master,0 toggle"
 bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl --min-val=2 -q set 3%-
 bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl -q set 3%+
 # BRIGHTNESS OVER
-	
+
+# WALLPAPER START
+exec always nitrogen --restore
+# WALLPAPER OVER
+		
 # split in horizontal orientation
 bindsym $mod+h split h
 
