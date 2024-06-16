@@ -8,126 +8,59 @@
 
 ``` kotlin
 data class Hyouteki {
-  val fullName = 'Lakshay Chauhan',
+  val fullName = "Lakshay Chauhan",
   var age = 20,
-  val country = 'IN',
-  val birthday = '28/01/2004',
+  val country = "IN",
+  val birthday = "28/01/2004",
 }
 ```
 
-### Connect with me
+### Socials
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/lakshay21060/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/LuckyDGreat)
+[![Linked in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyouteki/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mainlakshayhoon/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Nosferatu#0125)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hyouteki.github.io/)
+[![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Hyouteki)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshay21060@iiitd.ac.in)
 
-<a href="https://leetcode.com/lakshay21060/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Lakshay Chauhan" height="30" width="40" />
-</a>
-<a href="https://www.reddit.com/user/LuckyDGreat" target="blank">
-<img align="center" src="https://cdn.icon-icons.com/icons2/673/PNG/512/reddit_icon-icons.com_60458.png" alt="Lakshay Chauahn" height="36" width="36" /> 
-</a>
-<a href="https://www.linkedin.com/in/hyouteki/" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/3128/3128329.png" alt="Lakshay Chauhan" height="36" width="36" />
-</a>
-<a href="https://www.instagram.com/mainlakshayhoon/" target="blank">
-<img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" alt="Lakshay Chauhan" height="36" width="36" />
-</a>
-<a href="https://discord.gg/Nosferatu#0125" target="blank">
-<img align="center" src="https://cdn.icon-icons.com/icons2/3132/PNG/512/discord_social_network_communication_interaction_message_icon_192260.png" alt="Lakshay Chauhan" height="40" width="38" />
-</a>
-<a href="https://hyouteki.github.io/" target="blank">
-<img align="center" src="https://cdn.icon-icons.com/icons2/403/PNG/512/cloud_40534.png" alt="Lakshay Chauhan" height="40" width="38" />
-</a>
-<a href="https://www.youtube.com/@hyoutek1" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/889/889161.png" alt="Lakshay Chauhan" height="40" width="38" />
-</a>
-<a href="mailto:lakshay21060@iiitd.ac.in" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Lakshay Chauhan" height="40" width="38" />
-</a>
-
-### Handy Mandy Toolbox
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/640/PNG/512/android-robot-figure-avatar-brand_icon-icons.com_59128.png" alt="android" width="40" height="40"/> 
-</a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" alt="rust" width="40" height="40"/> 
-</a>
-<a href="https://tauri.app/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" alt="tauri" width="40" height="40"/> 
-</a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.djangoproject.com/favicon.ico" alt="django" width="40" height="40"/> 
-</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/> 
-</a>
-<a href="https://htmlreference.io/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="40" height="40"/> 
-</a>
-<a href="https://cssreference.io/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40"/> 
-</a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40"/> 
-</a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="40" height="40"/> 
-</a>
-<a href="https://obsidian.md/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/gilbarbara/logos/blob/main/logos/obsidian-icon.svg" alt="obsidian" width="40" height="40"/> 
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://cdn-icons-png.flaticon.com/512/1387/1387539.png" alt="java" width="40" height="40"/> 
-</a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" alt="kotlin" width="40" height="40"/> 
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn-icons-png.flaticon.com/512/546/546049.png" alt="linux" width="40" height="40"/> 
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="mysql" width="40" height="40"/> 
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://miro.com" target="_blank" rel="noreferrer"> 
-<img src="https://files.readme.io/17d4a23-miro-logo-color-square.png" alt="miro" width="40" height="40"/> 
-</a>
-<a href="https://helpx.adobe.com/in/support/xd.html" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png?20210729021535" alt="adobexd" width="40" height="40"/> 
-</a>
-<a href="https://m3.material.io/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/material_palette_generator_macos_bigsur_icon_189469.png" alt="materialdesign" width="40" height="40"/> 
-</a>
-<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/markdown_here_logo_icon_169967.png" alt="markdown" width="40" height="40"/>
-</a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-</a>
-<a href="https://developer.android.com/studio?gclsrc=ds&gclsrc=ds" target="_blank" rel="noreferrer">
-<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190394.png" alt="androidstudio" width="40" height="40"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="40" height="40"/> 
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.icon-icons.com/icons2/3685/PNG/512/notion_logo_icon_229291.png" alt="notion" width="40" height="40"/> 
-</a>
+### Toolbox
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Haskell](https://img.shields.io/badge/haskell-%237F5AB6.svg?&style=for-the-badge&logo=haskell&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-%23FF9900.svg?style=for-the-badge&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-ffdd54?style=for-the-badge&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Markdown]( 	https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Android studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### Statistics
 <p align="center">
