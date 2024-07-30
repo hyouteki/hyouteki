@@ -49,12 +49,12 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(column-number-mode t)
- '(custom-enabled-themes '(monokai))
+ '(custom-enabled-themes '(solarized-dark))
  '(custom-safe-themes
-   '("c71fd8fbda070ff5462e052d8be87423e50d0f437fbc359a5c732f4a4c535c43" "adfe1d522a4a100edade12797079ebbabf742a48cf098e7d10ea14012e156ee8" "55ab8347eb990d396909052089f0f83acca1831e8c80558319cee2c526a769d6" "e27c9668d7eddf75373fa6b07475ae2d6892185f07ebed037eedf783318761d7" "5a00018936fa1df1cd9d54bee02c8a64eafac941453ab48394e2ec2c498b834a" "249e100de137f516d56bcf2e98c1e3f9e1e8a6dce50726c974fa6838fbfcec6b" "06ed754b259cb54c30c658502f843937ff19f8b53597ac28577ec33bb084fa52" "e266d44fa3b75406394b979a3addc9b7f202348099cfde69e74ee6432f781336" "b95f61aa5f8a54d494a219fcde9049e23e3396459a224631e1719effcb981dbd" "a131602c676b904a5509fff82649a639061bf948a5205327e0f5d1559e04f5ed" "c95813797eb70f520f9245b349ff087600e2bd211a681c7a5602d039c91a6428" "2ce76d65a813fae8cfee5c207f46f2a256bac69dacbb096051a7a8651aa252b0" "0170347031e5dfa93813765bc4ef9269a5e357c0be01febfa3ae5e5fcb351f09" "9cd57dd6d61cdf4f6aef3102c4cc2cfc04f5884d4f40b2c90a866c9b6267f2b3" "74e2ed63173b47d6dc9a82a9a8a6a9048d89760df18bc7033c5f91ff4d083e37" "788121c96b7a9b99a6f35e53b7c154991f4880bb0046a80330bb904c1a85e275" "6128465c3d56c2630732d98a3d1c2438c76a2f296f3c795ebda534d62bb8a0e3" "b5fab52f16546a15f171e6bd450ff11f2a9e20e5ac7ec10fa38a14bb0c67b9ab" "98ef36d4487bf5e816f89b1b1240d45755ec382c7029302f36ca6626faf44bbd" "a5270d86fac30303c5910be7403467662d7601b821af2ff0c4eb181153ebfc0a" "d445c7b530713eac282ecdeea07a8fa59692c83045bf84dd112dd738c7bcad1d" "3c7a784b90f7abebb213869a21e84da462c26a1fda7e5bd0ffebf6ba12dbd041" "871b064b53235facde040f6bdfa28d03d9f4b966d8ce28fb1725313731a2bcc8" "7b8f5bbdc7c316ee62f271acf6bcd0e0b8a272fdffe908f8c920b0ba34871d98" "18cf5d20a45ea1dff2e2ffd6fbcd15082f9aa9705011a3929e77129a971d1cb3" "ba323a013c25b355eb9a0550541573d535831c557674c8d59b9ac6aa720c21d3" "046a2b81d13afddae309930ef85d458c4f5d278a69448e5a5261a5c78598e012" default))
+   '("c662f882b31c3867b8d5c92692f70250a9d4d6c98eeb5b0175cb744d6c00b82f" default))
  '(indent-tabs-mode t)
  '(package-selected-packages
-   '(melancholy-theme monokai-theme reykjavik-theme gruber-darker-theme go-mode kaolin-themes gruvbox-theme haskell-mode markdown-mode multiple-cursors smex rust-mode use-package))
+   '(glsl-mode cmake-mode solarized-theme melancholy-theme monokai-theme reykjavik-theme gruber-darker-theme go-mode kaolin-themes gruvbox-theme haskell-mode markdown-mode multiple-cursors smex rust-mode use-package))
  '(resize-mini-windows 'grow-only)
  '(standard-indent 4))
 (custom-set-faces
