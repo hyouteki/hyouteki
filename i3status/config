@@ -1,46 +1,55 @@
 general {
-        output_format = "i3bar"
-        colors = true
-        interval = 5
-        color_good = "#aaff00"
-        color_degraded = "#00dddd"
-        color_bad = "#ff2200"
-}	
-	
+    output_format = "i3bar"
+    colors = false
+    markup = pango
+    interval = 5
+}
+
+order += "cpu_temperature 0"
 order += "wireless _first_"
-order += "ethernet _first_"
+order += "volume master"
 order += "battery all"
 order += "disk /"
 order += "memory"
 order += "tztime local"
 
-wireless _first_ {
-        format_up = "W: (%quality at %essid) %ip"
-        format_down = "W: down"
+cpu_temperature 0 {
+    format = "<span foreground='#d12f2c' font_weight='bold'>%degrees°C</span>"
+    path = "/sys/class/thermal/thermal_zone0/temp"
 }
 
-ethernet _first_ {
-        format_up = "E: %ip (%speed)"
+wireless _first_ {
+    format_up = "<span foreground='#93dc5c' font_weight='bold'>(%quality at %essid) %ip</span>"
+    format_down = "<span foreground='#d12f2c' font_weight='bold'>Down</span>"
+}
+
+volume master {
+    format = "<span foreground='#f984e5' font_weight='bold'>%volume</span>"
+    format_muted = "<span foreground='#f984e5' font_weight='bold'>Muted</span>"
+    device = "default"
+    mixer = "Master"
+    mixer_idx = 0
 }
 
 battery all {
-        format = "%status %percentage %remaining"
+    last_full_capacity = true
+    format = "<span foreground='#ffa500' font_weight='bold'>%status %percentage</span>"
+    format_down = "No Battery"
+    path = "/sys/class/power_supply/BAT%d/uevent"
+    low_threshold = 10
+    integer_battery_capacity = true
 }
 
 disk "/" {
-        format = "DF %avail"
+    format = "<span foreground='#93dc5c' font_weight='bold'>%avail</span>"
 }
-
-load {
-        format = "%1min"
-}
-
+    
 memory {
-        format = "RAM %used/%available"
-        threshold_degraded = "1G"
-        format_degraded = "MEMORY < %available"
+   format = "<span foreground='#d12f2c' font_weight='bold'>%used:%available</span>"
+   threshold_degraded = "1G"
+   format_degraded = "MEMORY < %available"
 }
 
 tztime local {
-        format = "%Y-%m-%d %H:%M:%S"
+    format = "<span foreground='#2587cc' font_weight='bold'>%Y-%m-%d %H:%M:%S</span>"
 }
