@@ -15,7 +15,8 @@ set $mod Mod4
 # is used in the bar {} block below.
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
-font pango:DejaVu Sans Mono 8
+# font pango:DejaVu Sans Mono 8
+font pango:DejaVu Sans Mono 10
 # Before i3 v4.8, we used to recommend this one as the default:
 # font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
 # The font above is very space-efficient, that is, it looks good, sharp and
@@ -25,7 +26,10 @@ font pango:DejaVu Sans Mono 8
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
-
+# set default size for floating window
+for_window [floating] resize set 900 700
+bindsym $mod+x [floating] resize set 900 700
+	
 # start a terminal
 bindsym $mod+Return exec i3-sensible-terminal
 
@@ -33,11 +37,11 @@ bindsym $mod+Return exec i3-sensible-terminal
 bindsym $mod+q kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec dmenu_run
+# bindsym $mod+d exec dmenu_run
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
-# bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
+bindsym $mod+d exec --no-startup-id i3-dmenu-desktop --dmenu="dmenu_run -fn 'pango:DejaVu Sans Mono 10'"
 
 # change focus
 bindsym $mod+j focus left
@@ -71,19 +75,31 @@ bindsym XF86AudioMute exec "amixer -q sset Master,0 toggle"
 # PULSE AUDIO OVER
 
 # BRIGHTNESS START
-bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl --min-val=2 -q set 3%-
-bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl -q set 3%+
+bindsym XF86MonBrightnessDown exec sudo brightnessctl --min-val=2 -q set 3%-
+bindsym XF86MonBrightnessUp exec sudo brightnessctl -q set 3%+
 # BRIGHTNESS OVER
 
 # WALLPAPER START
-exec always nitrogen --restore
+exec --no-startup-id nitrogen --restore
 # WALLPAPER OVER
+
+# APPLETS START
+exec --no-startup-id nm-applet
+# APPLETS OVER
 
 # PRINT SCREEN START
 bindsym --release Print exec gnome-screenshot -a # capture area
 bindsym --release $mod+Print exec gnome-screenshot -i # interactive screenshot
 # PRINT SCREEN OVER
 			
+# CUSTOM KEY BINDINGS START
+bindsym --release $mod+comma exec --no-startup-id env XDG_CURRENT_DESKTOP=GNOME gnome-control-center --verbose
+bindsym $mod+Shift+o exec "gnome-screensaver-command --lock "
+bindsym --release $mod+m exec --no-startup-id pcmanfm
+bindsym --release $mod+c exec --no-startup-id chromium --new-tab --profile-directory="Default"
+bindsym --release $mod+y exec --no-startup-id emacs
+# CUSTOM KEY BINDINGS OVER
+
 # split in horizontal orientation
 bindsym $mod+h split h
 
@@ -165,7 +181,7 @@ mode "resize" {
         bindsym Escape mode "default"
 }
 
-bindsym $mod+r mode "resize"
+# bindsym $mod+r mode "resize"
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
