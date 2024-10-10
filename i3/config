@@ -98,6 +98,7 @@ bindsym $mod+Shift+o exec "gnome-screensaver-command --lock "
 bindsym --release $mod+m exec --no-startup-id pcmanfm
 bindsym --release $mod+c exec --no-startup-id chromium --new-tab --profile-directory="Default"
 bindsym --release $mod+y exec --no-startup-id emacs
+bindsym --release $mod+p exec --no-startup-id whatsapp-web
 # CUSTOM KEY BINDINGS OVER
 
 # split in horizontal orientation
