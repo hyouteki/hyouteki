@@ -23,7 +23,8 @@
 	  cpp-basic-offset 4) 
 (setq default-directory "/home/nosferatu/")
 (setq custom-file ".emacs.custom.el")
-	
+(add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
+
 (load-file custom-file)
 	
 ;; fullscreen-mode default

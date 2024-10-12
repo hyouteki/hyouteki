@@ -13,5 +13,3 @@ cp ~/.config/i3status/config ${ROOT}/i3status/config
 cp ~/.tmux.conf ${ROOT}/
 cp ~/.emacs ${ROOT}/
 cp ~/.emacs.custom.el ${ROOT}/
-
-cp ~/Scripts/* ${ROOT}/scripts/
