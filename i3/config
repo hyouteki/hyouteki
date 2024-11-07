@@ -87,6 +87,10 @@ exec --no-startup-id nitrogen --restore
 exec --no-startup-id nm-applet
 # APPLETS OVER
 
+# GESTURES START
+exec --no-startup-id libinput-gestures-setup start
+# GESTURES OVER
+
 # PRINT SCREEN START
 bindsym --release Print exec gnome-screenshot -a # capture area
 bindsym --release $mod+Print exec gnome-screenshot -i # interactive screenshot
