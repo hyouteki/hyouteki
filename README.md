@@ -9,7 +9,7 @@
 ``` kotlin
 data class Hyouteki {
   val fullName = "Lakshay Chauhan",
-  var age = 20,
+  var age = 21,
   val country = "IN",
   val birthday = "28/01/2004",
 }
